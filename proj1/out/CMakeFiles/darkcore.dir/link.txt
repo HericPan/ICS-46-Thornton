@@ -1,0 +1,2 @@
+/usr/bin/ar qc lib/libdarkcore.a  CMakeFiles/darkcore.dir/core/HericMazeGenerator.cpp.o CMakeFiles/darkcore.dir/core/HericMazeSolver.cpp.o CMakeFiles/darkcore.dir/core/MazeGeneratorDFS.cpp.o CMakeFiles/darkcore.dir/core/MazeSolverDFS.cpp.o
+/usr/bin/ranlib lib/libdarkcore.a

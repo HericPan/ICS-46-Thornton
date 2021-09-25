@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ics46/projects/set1/exp/expmain.cpp
+iostream
+-
+iomanip
+-
+string
+-
+map
+-
+random
+-
+algorithm
+-
+cmath
+-
+memory
+-
+
